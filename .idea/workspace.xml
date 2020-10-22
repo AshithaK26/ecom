@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0cdd590-76ed-4e7f-a9b3-b6ff74cdbcce" name="Default Changelist" comment="" />
+    <list default="true" id="d0cdd590-76ed-4e7f-a9b3-b6ff74cdbcce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mac/mac/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mac/mac/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mac/shop/templates/shop/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/mac/shop/templates/shop/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mac/shop/templates/shop/basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/mac/shop/templates/shop/basic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mac/shop/templates/shop/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/mac/shop/templates/shop/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mac/shop/templates/shop/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/mac/shop/templates/shop/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mac/shop/templates/shop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mac/shop/templates/shop/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mac/shop/templates/shop/prodView.html" beforeDir="false" afterPath="$PROJECT_DIR$/mac/shop/templates/shop/prodView.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mac/shop/templates/shop/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/mac/shop/templates/shop/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mac/shop/templates/shop/tracker.html" beforeDir="false" afterPath="$PROJECT_DIR$/mac/shop/templates/shop/tracker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mac/shop/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mac/shop/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +26,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iJtbvI1wnQdsXLe8zow0XXjhmG" />
   <component name="ProjectViewState">
@@ -94,9 +109,13 @@
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
     <state width="1897" height="277" key="GridCell.Tab.0.right/0.31.1920.1049@0.31.1920.1049" timestamp="1603161775296" />
-    <state x="449" y="193" width="1022" height="733" key="SettingsEditor" timestamp="1601637939082">
+    <state x="449" y="193" width="1022" height="733" key="SettingsEditor" timestamp="1603329017280">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state x="449" y="193" width="1022" height="733" key="SettingsEditor/0.31.1920.1049@0.31.1920.1049" timestamp="1601637939082" />
+    <state x="449" y="193" width="1022" height="733" key="SettingsEditor/0.31.1920.1049@0.31.1920.1049" timestamp="1603329017280" />
+    <state x="623" y="263" width="672" height="678" key="search.everywhere.popup" timestamp="1603331934828">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="623" y="263" width="672" height="678" key="search.everywhere.popup/0.31.1920.1049@0.31.1920.1049" timestamp="1603331934828" />
   </component>
 </project>
